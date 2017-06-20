@@ -10,6 +10,10 @@ body {
   box-sizing: border-box;
 }
 
+.navbar-brand{
+  background-color:#4aaaa5;
+  
+}
 /* general */
 
 .container {
@@ -196,13 +200,13 @@ input[type=submit] {
 
 @media screen and (max-width: 980px) {
   .wrapper{
-    width:649px;
+    width:66%;
   }
   .wrapper2{
-    width:269px;
+    width:33%;
   }
   p{
-    width:979px;
+    width:100%;
   }
   }
 @media screen and (max-width: 768px) {
